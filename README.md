@@ -70,4 +70,5 @@ This stage is a deep dive into the logic of time, calendars, and professional-gr
  ┣ 📂 04 - Algorithms & Problem-Solving - Level 1 (Solutions)/  # 50 Refactored Clean Code files
  ┣ 📂 05 - Algorithms & Problem-Solving - Level 2/              # 50 Intermediate problems & Projects
  ┣ 📂 07 - Algorithms & Problem-Solving - Level 3/              # 51 Advanced problems & Projects
+ ┣ 📂 08 - Algorithms & Problem-Solving - Level 4/              # 65 Advanced problems & Advanced Projects
  ┗ 📜 README.md
