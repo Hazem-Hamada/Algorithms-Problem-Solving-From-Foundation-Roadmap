@@ -49,6 +49,21 @@ This is the most advanced stage in this repository. It consists of 51 highly cha
 
 ---
 
+## 📂 08 - Algorithms & Problem-Solving - Level 4
+**Precision, Time Engineering, and Advanced Data Synchronization**
+
+This stage is a deep dive into the logic of time, calendars, and professional-grade data manipulation. It bridges the gap between basic logic and building systems that understand and manage complex real-world constraints.
+
+* **Key Focus:** Mastering Date/Time algorithms and high-level system logic.
+* **What I Learned:**
+  * **Date & Time Engineering:** Building custom calendar systems, leap year logic, and date difference calculations from scratch.
+  * **System-Wide Data Flow:** Managing active sessions (Current User/Client) and ensuring seamless file synchronization.
+  * **Complex Logic Management:** Solving 60+ intensive problems that require high concentration and "Clean Code" even with long, nested logic.
+* **Outcome:** The ability to build time-sensitive applications and handle enterprise-level logic, preparing me for the final transition into Object-Oriented Programming (OOP).
+
+---
+
+
 ## 🏗️ Repository Structure
 ```text
 📦 Problem-Solving-Solutions
